@@ -1,6 +1,6 @@
 # Bases
 
-Bases is a leaflet map that shows US military installations in this country and across the world. 
+Bases is a leaflet map that shows US military installations in this country and countries that have >1K US troops stationed.  
 
 ## Installation
 
